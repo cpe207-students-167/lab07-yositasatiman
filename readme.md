@@ -7,7 +7,7 @@
 
 ชื่อ-สกุล : โยษิตา สติหมั้น
 
-GitHub Page URL : 
+GitHub Page URL : https://cpe207-students-167.github.io/lab07-yositasatiman/
 
 ---
 
